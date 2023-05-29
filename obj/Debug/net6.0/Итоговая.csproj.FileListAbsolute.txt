@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Итоговая\obj\Debug\net6.0\Итоговая.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Итоговая\obj\Debug\net6.0\Итоговая.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Итоговая\obj\Debug\net6.0\Итоговая.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Итоговая\obj\Debug\net6.0\Итоговая.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Итоговая\obj\Debug\net6.0\Итоговая.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Итоговая\bin\Debug\net6.0\Итоговая.exe
+E:\ОБУЧЕНИЕ\Итоговая\bin\Debug\net6.0\Итоговая.deps.json
+E:\ОБУЧЕНИЕ\Итоговая\bin\Debug\net6.0\Итоговая.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Итоговая\bin\Debug\net6.0\Итоговая.dll
+E:\ОБУЧЕНИЕ\Итоговая\bin\Debug\net6.0\Итоговая.pdb
+E:\ОБУЧЕНИЕ\Итоговая\obj\Debug\net6.0\Итоговая.dll
+E:\ОБУЧЕНИЕ\Итоговая\obj\Debug\net6.0\refint\Итоговая.dll
+E:\ОБУЧЕНИЕ\Итоговая\obj\Debug\net6.0\Итоговая.pdb
+E:\ОБУЧЕНИЕ\Итоговая\obj\Debug\net6.0\Итоговая.genruntimeconfig.cache
+E:\ОБУЧЕНИЕ\Итоговая\obj\Debug\net6.0\ref\Итоговая.dll
